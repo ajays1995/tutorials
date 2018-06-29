@@ -1,0 +1,7 @@
+class class1
+{
+	class class2
+	{
+		fun foo() = "Nested class demo"
+	}
+}

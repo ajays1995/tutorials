@@ -1,0 +1,17 @@
+class Person
+{
+	val firstName:String;
+	val age:Int;
+	constructor(name:String, age:Int)
+	{
+		this.firstName = name;
+		this.age = age;
+	}
+}
+
+fun main(args:Array<String>)
+{
+	val person:Person = Person("ajay", 34);
+	
+	println("Heyy!  "+person.firstName+" welcome to first constructor demo ");
+}

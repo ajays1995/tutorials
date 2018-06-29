@@ -1,0 +1,10 @@
+class Person
+{
+	val firstName:String;
+	val age:Int;
+	constructor(name:String, age:Int)
+	{
+		this.firstName = name;
+		this.age = age;
+	}
+}

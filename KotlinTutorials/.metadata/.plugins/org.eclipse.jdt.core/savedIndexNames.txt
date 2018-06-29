@@ -1,0 +1,7 @@
+INDEX VERSION 1.127+D:\KotlinTutorials\.metadata\.plugins\org.eclipse.jdt.core
+3751793380.index
+2622791225.index
+1082557210.index
+3285680564.index
+2980876886.index
+2380175872.index

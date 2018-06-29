@@ -1,0 +1,11 @@
+fun main(args:Array<String>)
+{
+	val a:Double = 10.0;
+	val b:Float = 10.0f;
+	val c:Char = 'A';
+	
+	println("Double value  "+a);
+	println("Float value "+b);
+	println("char value "+c);
+	
+}

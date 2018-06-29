@@ -1,0 +1,7 @@
+fun main(args:Array<String>)
+{
+	println("Welcome to Kotlin Tutorials");
+	
+	val a:String;
+	println("value of a "+a.toUpperCase())
+}

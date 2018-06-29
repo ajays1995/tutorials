@@ -1,0 +1,12 @@
+<p>
+  Enter Name:
+  <input #textbox type="text" id="sayGreetings" />
+   
+</p>
+<p>
+  <input type="button" value="Say Greetings" (click)="getGreetings(textbox.value)"/>
+</p>
+
+<p class="greeting">
+  {{data.content}}
+</p>

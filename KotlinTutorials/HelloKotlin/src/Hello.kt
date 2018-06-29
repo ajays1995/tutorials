@@ -1,0 +1,21 @@
+fun main(args:Array<String>)
+{
+	//println("Welcome to Kotlin Tutorials");
+	
+	val a:String = abc();
+	println("value of a "+a.toUpperCase())
+}
+
+fun abc():String
+{
+	var a:Int = 10;
+	
+	if(a==10)
+		{
+			return "Hello World"
+		}
+	else
+		{
+			return "abc"
+		}
+}

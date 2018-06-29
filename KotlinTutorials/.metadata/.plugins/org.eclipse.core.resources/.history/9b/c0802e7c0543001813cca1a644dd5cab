@@ -1,0 +1,17 @@
+class demo
+{
+	private var name:String = "Kotlin Demo";
+	
+	fun printMe()
+	{
+		println("name is  "+name)
+	}
+}
+
+fun main(args:Array<String>)
+{
+	var obj:demo = demo()
+	obj.printMe()
+	
+	
+}

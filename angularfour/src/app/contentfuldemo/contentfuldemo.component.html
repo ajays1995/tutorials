@@ -1,0 +1,15 @@
+<h2>List of Products from Contentful</h2>
+<table border="1">
+  <th>Product Name</th>
+  <th>Description</th>
+  <th>Size/Type/Color</th>
+  <th>Price</th>
+  <th>Tags</th>
+  <tr *ngFor="let product of products">
+    <td>{{product.fields.productName}}</td>
+    <td>{{product.fields.productDescription}}</td>
+    <td>{{product.fields.sizetypecolor}}</td>
+    <td>{{product.fields.price}}</td>
+    <td>{{product.fields.tags}}</td>
+  </tr>
+</table>

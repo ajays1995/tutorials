@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.jbehave.core.annotations.Given"/>
+<fullyQualifiedTypeName name="org.jbehave.core.annotations.When"/>
+<fullyQualifiedTypeName name="com.jbehave.core.Calculator"/>
+<fullyQualifiedTypeName name="java.text.Format"/>
+<fullyQualifiedTypeName name="org.jbehave.core.configuration.Configuration"/>
+<fullyQualifiedTypeName name="org.jbehave.core.reporters.Format"/>
+<fullyQualifiedTypeName name="org.jbehave.core.steps.CandidateSteps"/>
+<fullyQualifiedTypeName name="org.jbehave.core.steps.InstanceStepsFactory"/>
+<fullyQualifiedTypeName name="com.jbehave.step.CalculatorStep"/>
+<fullyQualifiedTypeName name="com.jbehave.step.CalculatorSubStep"/>
+<fullyQualifiedTypeName name="org.jbehave.core.junit.JUnitStories"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="org.jbehave.core.junit.JUnitStory"/>
+<fullyQualifiedTypeName name="org.jbehave.core.annotations.Then"/>
+<fullyQualifiedTypeName name="org.junit.Assert"/>
+</qualifiedTypeNameHistroy>
